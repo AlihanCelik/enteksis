@@ -1,5 +1,16 @@
 [
   {
+    "id": "AF-2026-9228",
+    "fullName": "Alihan Çelik",
+    "email": "alihancelikk03@gmail.com",
+    "service": "Süreç Otomasyonu & CRM Entegrasyonu",
+    "companySize": "11-50",
+    "description": "Web sitemizden ve e-postalardan gelen müşteri taleplerinin CRM sistemimize otomatik kaydedilmesini, satış ekibine atanmasını ve anlık Slack bildirimi gönderilmesini istiyoruz.",
+    "ip": "::1",
+    "createdAt": "2026-10-09T11:02:51.243Z",
+    "status": "Yeni (Beklemede)"
+  },
+  {
     "id": "AF-2026-8350",
     "fullName": "Mustafa Can",
     "email": "mustafa@otomasyontest.com",
