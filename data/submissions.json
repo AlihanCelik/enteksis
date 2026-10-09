@@ -1,5 +1,16 @@
 [
   {
+    "id": "AF-2026-8350",
+    "fullName": "Mustafa Can",
+    "email": "mustafa@otomasyontest.com",
+    "service": "Süreç Otomasyonu & CRM Entegrasyonu",
+    "companySize": "50-250",
+    "description": "Fatura verilerimizi SAP sistemimize otomatize aktarmak istiyoruz.",
+    "ip": "::1",
+    "createdAt": "2026-10-09T10:59:16.479Z",
+    "status": "Yeni (Beklemede)"
+  },
+  {
     "id": "AF-2026-9401",
     "fullName": "Ahmet Yılmaz",
     "email": "ahmet.yilmaz@techcorp.com.tr",

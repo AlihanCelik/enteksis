@@ -17,6 +17,8 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "lucide-react": "^0.344.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
     "tailwind-merge": "^2.2.1"
   },
   "devDependencies": {
