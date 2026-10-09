@@ -1,0 +1,24 @@
+[
+  {
+    "id": "AF-2026-9401",
+    "fullName": "Ahmet Yılmaz",
+    "email": "ahmet.yilmaz@techcorp.com.tr",
+    "service": "Süreç Otomasyonu & CRM Entegrasyonu",
+    "companySize": "50-250",
+    "description": "Müşteri temsilcilerimizin Salesforce verilerini manuel güncellemesinden kaynaklı haftalık 30 saatlik kayıp yaşıyoruz. Otomatik senkronizasyon istiyoruz.",
+    "ip": "127.0.0.1",
+    "createdAt": "2026-10-07T10:54:00.672Z",
+    "status": "İnceleniyor"
+  },
+  {
+    "id": "AF-2026-8812",
+    "fullName": "Zeynep Kaya",
+    "email": "zeynep.kaya@logix-tr.com",
+    "service": "Belge, Teklif & Fatura Otomasyonu",
+    "companySize": "11-50",
+    "description": "Tedarikçilerden gelen PDF faturaların verilerinin muhasebe sistemimize otomatik aktarılması ve onay mekanizması kurulması gerekiyor.",
+    "ip": "127.0.0.1",
+    "createdAt": "2026-10-09T05:54:00.673Z",
+    "status": "Yeni"
+  }
+]
