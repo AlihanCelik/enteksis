@@ -1,6 +1,7 @@
 # AutoFlow AI — İşletmeler İçin Akıllı Görev ve Süreç Otomasyon Platformu
 
-> **Kurgusal Teknolojik Hizmet Landing Page'i & Sunucu Kalıcı Kayıt Sistemli Talep Yönetimi**
+> **Kurgusal Teknolojik Hizmet Landing Page'i & Sunucu Kalıcı Kayıt Sistemli Talep Yönetimi**  
+> **Canlı Yayındaki URL**: [https://03b0fe49f92337.lhr.life](https://03b0fe49f92337.lhr.life)
 
 AutoFlow AI, ölçeklenen işletmeler, KOBİ'ler ve B2B firmalar için tekrarlayan operasyonel süreçleri (CRM güncellemeleri, PDF fatura ayrıştırma, müşteri e-postaları, Slack bildirimleri) otonom AI ajanları ile otomatize eden kurgusal bir teknoloji hizmetidir.
 
